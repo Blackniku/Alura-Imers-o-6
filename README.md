@@ -1,1 +1,2 @@
-# Alura-Imers-o-6
+# Alura Imersão 6
+Respostas/Coding da aula Alura
